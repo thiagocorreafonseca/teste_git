@@ -1,0 +1,12 @@
+texto do arquivo
+
+mais texto
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Quisque porttitor felis ut mi consequat auctor. Phasellus semper nisl id nisl porta, 
+a faucibus ante porttitor. Cras ac arcu quis nulla iaculis accumsan nec sit amet velit. 
+Proin ullamcorper rhoncus nisi sit amet sagittis. Suspendisse vel nisi augue. Pellentesque 
+commodo tempor diam at feugiat. Duis ac pharetra nulla. Vivamus lectus tellus, sagittis 
+pellentesque sapien sed, pellentesque blandit massa. Nulla eget neque ornare, sollicitudin 
+purus non, tempus lectus. Duis laoreet posuere dui id rhoncus. Cras consectetur risus velit, 
+in mattis nulla aliquam eu. Nunc dapibus urna ut ipsum interdum, at faucibus metus laoreet.
